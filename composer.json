@@ -1,0 +1,24 @@
+{
+    "name": "vojtasvoboda/ecomail-plugin",
+    "description": "Ecomail connector for OctoberCMS",
+    "type": "october-plugin",
+    "keywords": ["ecomail"],
+    "require": {
+        "php": ">=5.5.9",
+        "composer/installers": "~1.0",
+        "ecomailcz/ecomail": "^1.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vojta Svoboda",
+            "email": "vojtasvoboda.cz@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    }
+}

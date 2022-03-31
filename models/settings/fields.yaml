@@ -1,0 +1,5 @@
+fields:
+    api_key:
+        label: Ecomail API key
+        span: left
+        commentAbove: Get an API Key from Ecomail > Account > Integrations.

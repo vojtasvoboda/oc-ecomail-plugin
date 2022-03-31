@@ -1,0 +1,6 @@
+plugin:
+    name: 'Ecomail'
+    description: 'Ecomail.cz connector'
+    author: 'Vojta Svoboda'
+    icon: icon-envelope
+    homepage: 'https://ecomail.cz'
